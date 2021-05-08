@@ -1,5 +1,5 @@
 import random, string, unittest
-from Cipher import *
+from CipherAlg import *
 
 
 class TestCipherMethods(unittest.TestCase):
